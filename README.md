@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
 </a>
 <a href="https://www.kaggle.com/renzosaucedo/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle&logoColor=blue" alt="Youtube Badge"/>
 </a>
 </div>
 
