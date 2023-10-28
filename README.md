@@ -9,16 +9,16 @@
   
 [badges i got it from shields.io ... anyone can copy and paste the link and change the parameters to test out, atleast thats how i did it]: #  
 <div id="badges">
-<a href="https://www.linkedin.com/in/renzosaucedos/" target="_blank">
+<a href="https://www.linkedin.com/in/renzosaucedos/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://www.instagram.com/renzuki_123/" target="_blank">
+<a href="https://www.instagram.com/renzuki_123/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
 </a>
-<a href="mailto:20201969@aloe.ulima.edu.pe" target="_blank">
+<a href="mailto:20201969@aloe.ulima.edu.pe" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
 </a>
-<a href="https://www.kaggle.com/renzosaucedo/" target="_blank">
+<a href="https://www.kaggle.com/renzosaucedo/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle&logoColor=blue" alt="Youtube Badge"/>
 </a>
 </div>
